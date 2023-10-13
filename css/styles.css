@@ -1,0 +1,68 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.unmarked {
+  list-style-type: none;
+}
+
+/*  =================HEADER==============  */
+.page-header {
+  background-color: #fafafa;
+}
+
+.logo-text-simply {
+  color: #111111;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: 1.11; /* 111.111% */
+  letter-spacing: -0.03em;
+}
+
+.logo-text-simply:hover,
+.logo-text-simply:focus {
+  color: #fd9222;
+}
+
+.logo-text-chocolate {
+  color: #111111;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: -0.03em;
+}
+
+.logo-text-chocolate:hover,
+.logo-text-chocolate:after {
+  color: #fd9222;
+}
+
+.header-nav-menu-item {
+  color: #111;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.14; /* 114.286% */
+  letter-spacing: -0.02em;
+}
+
+.header-nav-menu-item:hover,
+.header-nav-menu-item:focus {
+  color: #fd9222;
+}
+
+.header-icon {
+}
+
+.header-icon:hover {
+}
+/* ============HERO SECTION============= */
+.hero-section {
+}
